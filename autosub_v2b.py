@@ -11,6 +11,7 @@ home_urls = (
     'https://sub.chbjpw.mobi', 
     'https://cooc.cloud',
     'https://xf.gl',
+    'https://www.speedasia.xyz',
     'https://konan.ml',
 )
 times = 15
