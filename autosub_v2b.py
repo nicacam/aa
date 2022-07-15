@@ -12,7 +12,7 @@ home_urls = (
     'https://www.speedasia.xyz',
     'https://baipiao.buzz',
 )
-times = 15
+times = 2
 proxies = {
     'http': 'http://127.0.0.1:7890',
     'https': 'http://127.0.0.1:7890'
