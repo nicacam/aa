@@ -33,7 +33,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Fetch Subscriptions
       run: |
-        python autosub_v2b.py
+        python auto.py
     - name: Commit
       run: |
         git config --global user.email krustykrabtbbt@gmail.com
