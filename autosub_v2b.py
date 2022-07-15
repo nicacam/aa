@@ -23,7 +23,8 @@ subs = []
 for current_url in home_urls:
     i = 0
     while i < times:
-        form_data = {'email': ''.join(random.choice(string.ascii_letters+string.digits) for _ in range(12))+'@gmail.com',
+#        form_data = {'email': ''.join(random.choice(string.ascii_letters+string.digits) for _ in range(12))+'@gmail.com',
+       form_data = {'email': ''.join(random.choice(string.ascii_letters+string.digits) for _ in range(12))+'@qq.com',
                     'password': 'autosub_v2b',
                     'invite_code': '',
                 'email_code': ''}
