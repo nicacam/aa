@@ -1,9 +1,9 @@
-2022-07-15T03:40:40.647071
+2022-07-15T16:06:25.478742
 2 accounts created for each site. Subscription URLs:
 ----------
-https://cooc.cloud/api/v1/client/subscribe?token=504177f90e5021c17cd02ba24e9f1171
-https://cooc.cloud/api/v1/client/subscribe?token=331d749ce3dc148a408fc34cbfc186af
-https://www.speedasia.xyz/api/v1/client/subscribe?token=32ffc94ce2d663481e326b219737085f
-https://www.speedasia.xyz/api/v1/client/subscribe?token=ad26032c0e15c78ab6af77c560260da4
-https://baipiao.buzz/api/v1/client/subscribe?token=15494f2db72129b2b0f052811c26776a
-https://baipiao.buzz/api/v1/client/subscribe?token=e42fd98c053f4d77df8b73bade46919c
+https://cooc.cloud/api/v1/client/subscribe?token=22db23764088233c85dd897b6108cd6f
+https://cooc.cloud/api/v1/client/subscribe?token=bdb65307b0e8a1067055e78d8599d112
+https://www.speedasia.xyz/api/v1/client/subscribe?token=5286ebeb5088f9838a63db3d8cb29bec
+https://www.speedasia.xyz/api/v1/client/subscribe?token=6ee07c4710c8c1a66ec95c21b74c8cee
+https://baipiao.buzz/api/v1/client/subscribe?token=ca26b6f7de833a9a59e283f11960c148
+https://baipiao.buzz/api/v1/client/subscribe?token=5b4eb163f7393506180e0eb8d0964e9f
