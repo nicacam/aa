@@ -3,9 +3,6 @@
 
 name: Fetch Subscriptions
 
-on:
-  schedule:
-    - cron: '*/16 * * * *'
 
 on:
   push:
