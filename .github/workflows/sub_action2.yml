@@ -33,7 +33,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Fetch Subscriptions2
       run: |
-        python auto2.py
+        python auyo2.py
     - name: Commit
       run: |
         git config --global user.name yangyucacaa
