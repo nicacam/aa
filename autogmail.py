@@ -10,8 +10,10 @@ USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101
 home_urls = (
    # 'https://cooc.cloud',
     #'https://baipiao.buzz',
-   # 'https://konan.ml',
+    'https://circlecloud123.com',
     'https://hmkj3.com',
+    'https://sub.chbjpw.mobi',
+    'https://acec.icu',
 )
 times = 1
 proxies = {
