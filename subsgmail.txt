@@ -1,5 +1,5 @@
-2022-07-16T08:33:37.724317
+2022-07-16T08:36:07.932025
 2 accounts created for each site. Subscription URLs:
 ----------
-https://hmkj3.com/api/v1/client/subscribe?token=50ddb60f92521b8dc5b1c6599c80e947
-https://hmkj3.com/api/v1/client/subscribe?token=17c0922bd44072348ddb0ff30f3a225c
+https://hmkj3.com/api/v1/client/subscribe?token=eb46e67fd8273ad9ff7ff1da813b0970
+https://hmkj3.com/api/v1/client/subscribe?token=ff73b5692573725812dfc7a19b172a39
