@@ -13,7 +13,7 @@ home_urls = (
    # 'https://konan.ml',
     'https://hmkj3.com',
 )
-times = 2
+times = 1
 proxies = {
     'http': 'http://127.0.0.1:7890',
     'https': 'http://127.0.0.1:7890'

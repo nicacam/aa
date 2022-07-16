@@ -12,7 +12,7 @@ home_urls = (
     'https://baipiao.buzz',
  #   'https://konan.ml',
 )
-times = 2
+times = 1
 proxies = {
     'http': 'http://127.0.0.1:7890',
     'https': 'http://127.0.0.1:7890'
