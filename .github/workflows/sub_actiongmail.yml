@@ -33,7 +33,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Fetch gmail
       run: |
-        python auyo2.py
+        python autogmail.py
     - name: Commit
       run: |
         git config --global user.name yangyucacaa
