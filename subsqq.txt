@@ -1,4 +1,4 @@
-2022-07-16T08:56:56.015473
+2022-07-16T09:01:53.528221
 1 accounts created for each site. Subscription URLs:
 ----------
-https://konan.ml/api/v1/client/subscribe?token=12ed73de166359842e182f21b49a0080
+https://konan.ml/api/v1/client/subscribe?token=0fb5924478cbbd53d76242da96adb5ac
