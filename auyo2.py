@@ -8,9 +8,10 @@ V2B_REG_REL_URL = '/api/v1/passport/auth/register'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0'
 
 home_urls = (
-    'https://cooc.cloud',
-    'https://baipiao.buzz',
+   # 'https://cooc.cloud',
+    #'https://baipiao.buzz',
    # 'https://konan.ml',
+    'https://hmkj3.com',
 )
 times = 2
 proxies = {
@@ -22,12 +23,17 @@ subs1 = []
 for current_url in home_urls:
     i = 0
     while i < times:
-        form_data = {'email': ''.join(random.choice(string.ascii_letters+string.digits) for _ in range(12))+'@gmail.com',
+        form_data = {'email': ''.join(random.choice(string.ascii_letters+string.digits) for _ in range(12)),
+                    'password': 'nichacha123',
+                    'invite_code': '',
+                'email_code': ''}
+        
+        form_data2 = {'email': ''.join(random.choice(string.ascii_letters+string.digits) for _ in range(12))+'@gmail.com',
                     'password': 'nichacha123',
                     'invite_code': '',
                 'email_code': ''}
         try:
-            response = requests.post(current_url+V2B_REG_REL_URL, json=form_data)
+            response = requests.post(current_url+V2B_REG_REL_URL, json=form_data2)
         except:
             continue
         # print(response.text)
