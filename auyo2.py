@@ -8,7 +8,9 @@ V2B_REG_REL_URL = '/api/v1/passport/auth/register'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0'
 
 home_urls = (
-    'https://konan.ml',
+    'https://cooc.cloud',
+    'https://baipiao.buzz',
+   # 'https://konan.ml',
 )
 times = 2
 proxies = {
@@ -20,7 +22,7 @@ subs1 = []
 for current_url in home_urls:
     i = 0
     while i < times:
-        form_data = {'email': ''.join(random.choice(string.ascii_letters+string.digits) for _ in range(12)),
+        form_data = {'email': ''.join(random.choice(string.ascii_letters+string.digits) for _ in range(12))+'@gmail.com',
                     'password': 'nichacha123',
                     'invite_code': '',
                 'email_code': ''}
