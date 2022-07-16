@@ -19,7 +19,7 @@ proxies = {
     'https': 'http://127.0.0.1:7890'
 }
 
-subs1 = []
+subsgmail = []
 for current_url in home_urls:
     i = 0
     while i < times:
@@ -39,7 +39,7 @@ for current_url in home_urls:
         # print(response.text)
         try:
             subscription_url = f'{current_url}/api/v1/client/subscribe?token={response.json()["data"]["token"]}'
-            subs1.append(subscription_url)
+            subsgmail.append(subscription_url)
         except:
             print(f'Invalid response: {response.text.encode("utf-8")}')
             sleep(3)
@@ -48,8 +48,8 @@ for current_url in home_urls:
             print(f'Number succeeded: {i}\t{subscription_url}')
 
 print(f'{times} accounts created for each site. Subscription URLs:\n----------')
-print(*subs1, sep='\n')
+print(*subsgmail, sep='\n')
 
-with open('subs1.txt', 'w') as fil:
+with open('subsgmail.txt', 'w') as fil:
     print(f'{datetime.datetime.now().isoformat()}\n{times} accounts created for each site. Subscription URLs:\n----------', file=fil)
-    print(*subs1, sep='\n', file=fil)
+    print(*subsgmail, sep='\n', file=fil)
