@@ -1,5 +1,5 @@
-2022-07-19T06:58:48.473778
+2022-07-19T07:12:59.314218
 1 accounts created for each site. Subscription URLs:
 ----------
-https://circlecloud123.com/api/v1/client/subscribe?token=2c31c95bcd71bb148e494cca912899b7
-https://acec.icu/api/v1/client/subscribe?token=d93d934b398c5bb5dc8523f58ff935db
+https://circlecloud123.com/api/v1/client/subscribe?token=6066a8e3600b46da4d3f540d9c835565
+https://acec.icu/api/v1/client/subscribe?token=df45cee3d32284a87bf3513b3bcf8c76
