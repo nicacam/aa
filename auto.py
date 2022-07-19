@@ -11,7 +11,7 @@ home_urls = (
     'https://cooc.cloud',
     'https://baipiao.buzz',
     'https://www.v2board.cc',
-    'http://ylzzt1.top',
+   # 'http://ylzzt1.top',
     'https://www.lorycloud.com',
 )
 times = 1
