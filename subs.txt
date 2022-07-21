@@ -1,7 +1,7 @@
-2022-07-21T09:46:45.798463
+2022-07-21T12:00:06.680983
 1 accounts created for each site. Subscription URLs:
 ----------
-https://cooc.cloud/api/v1/client/subscribe?token=7339e9c08f741f450b5f5fdf3a6160b7
-https://baipiao.buzz/api/v1/client/subscribe?token=554bf8500bc259ba98bd45d921ac0fd9
-https://www.v2board.cc/api/v1/client/subscribe?token=91b4205c8dd91fbdc380e2b8aa5be447
-https://www.lorycloud.com/api/v1/client/subscribe?token=1804725c1391357ad8a253d4c4a87e2b
+https://cooc.cloud/api/v1/client/subscribe?token=9fd10946e70073239527bd41bf355b12
+https://baipiao.buzz/api/v1/client/subscribe?token=f72094e3d239d710f1898471bf0d84c9
+https://www.v2board.cc/api/v1/client/subscribe?token=5f394e3aa6b8af1bbee34f205d9c820d
+https://www.lorycloud.com/api/v1/client/subscribe?token=ca737843a6439813af4a8fa0014719fc
